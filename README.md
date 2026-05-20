@@ -1,4 +1,6 @@
 # Scene Port Hider by eBPF
+   这个是给联想y700四代系统版本c16/502使用
+
 
 这是一个 KernelSU 模块，用来隐藏 Scene 常用 TCP 端口 `8788` 和 `8765` 的端口探测。
 
